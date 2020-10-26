@@ -1,0 +1,12 @@
+.splash {
+    background: url("/splash_img.jpg") no-repeat center center fixed; 
+    min-height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.splash-text {
+    color: white;
+}
